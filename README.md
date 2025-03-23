@@ -15,6 +15,7 @@ C# WinForms
 .NET Framework 4.7.2+
 
 Guna UI
+Mô hình 3 lớp
 
 🚀 Chức năng chính
 
